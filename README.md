@@ -6,7 +6,6 @@ A sleek, modern web application that provides real-time weather information and 
 - **Search for Any City**: Easily input any city name to get the current weather and a 5-day forecast.
 - **Responsive Design**: User interface adjusts well on both desktop and mobile devices.
 - **Dynamic Weather Icons**: Displays weather-specific icons (e.g., sunny, cloudy, rainy) based on the current conditions.
-- **Dark and Light Mode Toggle**: Allows users to switch between dark and light themes for better accessibility and personalization.
 
 ## Getting Started
 
