@@ -1,4 +1,4 @@
-const apiKey = '8ff65fc1562af5273faaa8e36966ea2d'; 
+const apiKey = 'your api key'; 
 
 // Function to determine which icon to use based on weather condition
 function getCustomIcon(weatherMain) {
